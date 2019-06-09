@@ -57,10 +57,12 @@ Our project now counts with a git repository, at least a local one. If we add a 
 git status
 ```
 
-For now we have a local repository, which will allow us to completely use one of the most useful features of git: **version control**, but let's now see how we can actually "sync" our project with GitHub
+For now we have a local repository, which will allow us to completely use one of the most useful features of git: **version control**, but let's now see how we can actually "sync" our local project with GitHub
 
 ### Linking to a remote repository
 
-In progress...
+> First login to your account in GitHub, or create one from [here](https://github.com/join) if you don't have one.
+
+Let's now create a blank repository which will be "synced" with our previously created local repository.
 
 ## Using other's projects
