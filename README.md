@@ -1,5 +1,5 @@
 # Intro to Git
-This is a repo made to demonstrate the usage and workflow of git
+This is a repo made to demonstrate the usage and workflow of git | https://undervane.github.io/intro-to-git/
 
 ## Creating a project
 
