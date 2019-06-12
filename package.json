@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-git",
+  "version": "1.0.0",
+  "description": "This is a repo made to demonstrate the usage and workflow of git",
+  "scripts": {
+    "start": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undervane/intro-to-git.git"
+  },
+  "author": "Undervane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undervane/intro-to-git/issues"
+  },
+  "homepage": "https://github.com/undervane/intro-to-git#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.1",
+    "vuepress": "^1.0.1"
+  }
+}
